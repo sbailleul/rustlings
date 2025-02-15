@@ -12,6 +12,8 @@ fn main() {
         println!("Neither alphabetic nor numeric!");
     }
 
+    let your_character : char = '4';
+
     // TODO: Analogous to the example before, declare a variable called `your_character`
     // below with your favorite character.
     // Try a letter, try a digit (in single quotes), try a special character, try a character

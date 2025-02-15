@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-quiz1
+primitive_types3
 
 intro1
 intro2
@@ -10,3 +10,6 @@ variables3
 variables4
 if2
 if3
+quiz1
+primitive_types1
+primitive_types2
