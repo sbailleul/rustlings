@@ -1,6 +1,6 @@
 DON'T EDIT THIS FILE!
 
-primitive_types5
+enums2
 
 intro1
 intro2
@@ -15,3 +15,16 @@ primitive_types1
 primitive_types2
 primitive_types3
 primitive_types4
+primitive_types5
+primitive_types6
+vecs1
+vecs2
+move_semantics1
+move_semantics2
+move_semantics3
+move_semantics4
+move_semantics5
+structs1
+structs2
+structs3
+enums1
